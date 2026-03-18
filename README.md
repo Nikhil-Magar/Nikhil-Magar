@@ -84,15 +84,7 @@ I'm a passionate full-stack developer who enjoys building complete, functional w
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Magar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Magar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
